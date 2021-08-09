@@ -5,8 +5,6 @@ You can use the [editor on GitHub](https://github.com/bradtech9/bradtech9.github
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### New Faculty Orientation
-
-
 ```markdown
 Syntax highlighted code block
 
