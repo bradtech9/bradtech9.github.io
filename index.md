@@ -1,6 +1,7 @@
 ## Brad Tech
 ### New Faculty Orientation
-[Faculty Center for Teaching & Learning](https://fctl.eku.edu) ![Image](https://fctl.eku.edu/sites/fctl.eku.edu/files/imagecache/page_header_preset/page_header_images/fctl-web-banner-white-background.jpg)
+![Image](https://fctl.eku.edu/sites/fctl.eku.edu/files/imagecache/page_header_preset/page_header_images/fctl-web-banner-white-background.jpg)
+[Faculty Center for Teaching & Learning](https://fctl.eku.edu) 
 ```markdown
 Syntax highlighted code block
 # Test 1
