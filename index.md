@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Brad Tech
 ### New Faculty Orientation
 ```markdown
 Syntax highlighted code block
