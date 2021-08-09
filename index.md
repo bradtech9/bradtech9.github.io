@@ -4,9 +4,11 @@
 [Faculty Center for Teaching & Learning](https://fctl.eku.edu) 
 ![Image](https://studio.eku.edu/sites/studio.eku.edu/files/imagecache/page_header_preset/page_header_images/20100920noel-studio-scenes0042.jpg)
 [Noel Studio for Academic Creativity](https://studio.eku.edu)
-![Image](https://studio.eku.edu/sites/studio.eku.edu/files/images/Studio%20Logo%20transparent%20color.png)
-[EngaGE General Eduaction](https://engage.eku.edu)
-![Image](https://studio.eku.edu/sites/studio.eku.edu/files/imagecache/page_header_preset/page_header_images/20100916noel-studio-promo0071a_0.jpg)
+![Image](https://studio.eku.edu/sites/studio.eku.edu/files/imagecache/page_header_preset/page_header_images/20100920noel-studio-scenes0042.jpg)
+[EngaGE General Education](https://engage.eku.edu)
+![Image](https://engage.eku.edu/sites/engage.eku.edu/files/images/EKU-ENGAGE-Web-Header(2).png)
+[Resources for Teaching @ EKU](https://teach.eku.edu)
+![Image](https://studio.eku.edu/sites/studio.eku.edu/files/imagecache/page_header_preset/page_header_images/20100916noel-studio-promo0071a_0.jpg
 
   
 ```markdown
