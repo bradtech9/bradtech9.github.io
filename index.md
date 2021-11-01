@@ -8,28 +8,3 @@
 [EngaGE General Education](https://engage.eku.edu)
 ![Image](https://studio.eku.edu/sites/studio.eku.edu/files/imagecache/page_header_preset/page_header_images/20100916noel-studio-promo0071a_0.jpg)
 [Resources for Teaching @ EKU](https://teach.eku.edu)
-
-
-  
-```markdown
-Syntax highlighted code block
-# Test 1
-## Brad 2
-### Brad 3
-
-- Bulleted
-- Listerino
-
-1. Numbered
-2. Listerina
-
-**Bold** and _Italic_ and `Code` text
-
-**THIS IS BOLD**
-
-_THIS IS ITALIC_
-
-'l337 hacking'
-
-[Link](url) and ![Image](src)
-```
